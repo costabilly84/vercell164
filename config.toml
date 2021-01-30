@@ -1,0 +1,4 @@
+baseURL = "https://easypianoguysdol.vercel.app"
+languageCode = "en-us"
+title = "Easy Piano Sheet Music For Popular Songs Free"
+theme = "tale-hugo-master"
